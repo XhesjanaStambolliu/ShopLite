@@ -1,0 +1,6 @@
+@ShopLite.Services.EmailAPI_HostAddress = http://localhost:5261
+
+GET {{ShopLite.Services.EmailAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
