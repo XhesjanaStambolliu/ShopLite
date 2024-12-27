@@ -18,3 +18,4 @@
 - **SQL Server**  
 - **Azure Service Bus**  
 - **.NET 8**
+- **RabbitMQ**
